@@ -1,3 +1,8 @@
+/*autor: Melisa Gulle
+ codigo para recortar cadena de caracteres */
+
+
+
 public class Cadenas{
  public static void main(String args[]){
 
